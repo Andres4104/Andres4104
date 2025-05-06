@@ -12,9 +12,10 @@
 ## 📈 Proyectos destacados
 
 - 📊 [Pagina Web Celulares](https://github.com/Andres4104/Tienda-Celulares)
-- 🧠 [Software educativo gamificado para primaria](https://andres4104.itch.io/primero)
-- 📊 [Análisis de datos educativos con Pentaho](https://github.com/Andres4104/Inteligencia-Negocios)
 - 🧠 [Django Api](https://github.com/LopezCristhian/NeuralShoes)
+- 📊 [Análisis de datos educativos con Pentaho](https://github.com/Andres4104/Inteligencia-Negocios)
+- 🧠 [Software educativo gamificado para primaria](https://andres4104.itch.io/primero)
+
 
 ## 📫 Contáctame
 
